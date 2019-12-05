@@ -8,6 +8,7 @@ This is the full list of parts contained in this repository:
 * **Arduino Pro Mini** board (chinese version)
 * **MPU6050** gyroscope module
 * **Micro SD Card** reader module
+* **ADS1115** 16bits ADC module
 * **Mini360** DC-DC buck module
 * **SX1308** DC-DC boost module
 * **BMP280** atmospheric pressure sensor module
