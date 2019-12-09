@@ -14,3 +14,4 @@ This is the full list of parts contained in this repository:
 * **BMP280** atmospheric pressure sensor module
 * **MQ-1/MQ-2/...** gas sensor
 * **FM62429/M62429** electronic volume controller IC
+* **Logic Level Shifter** module
