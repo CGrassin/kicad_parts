@@ -16,5 +16,6 @@ This is the full list of parts contained in this repository:
 * **FM62429/M62429** electronic volume controller IC
 * **Logic Level Shifter** module
 * **RV097NS** potentiometer/switch combo
+* **HM-11** bluetooth module (16 pins version)
 
 **Warning:** there are often several non-pin-compatible versions of those modules. Please make sure that both the pinout and the physical footprint match yours.
